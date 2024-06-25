@@ -6,5 +6,5 @@ layout: home
 # Bennett's Website
 ## No Major
 
-![fruit_bowl.png](Coding)
+![fruit_bowl](Coding.png)
 
